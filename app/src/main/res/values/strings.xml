@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MorseL</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="svname">Server address</string>
+    <string name="title_activity_room_sel">Room Selection</string>
+    <string name="rmname">Room name</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="del">Delete room</string>
+    <string name="clear">Clear scrollback</string>
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="io.github.hexafraction.morsel.ChatActivity">
+    <item android:id="@+id/action_clear_room"
+          android:title="@string/clear"
+          android:orderInCategory="100"
+          android:icon="@drawable/ic_clear"
+          android:showAsAction="never"/>
+    <item android:id="@+id/action_del_room"
+          android:title="@string/del"
+          android:icon="@drawable/ic_delroom"
+          android:orderInCategory="100"
+          android:showAsAction="never"/>
+
+</menu>
